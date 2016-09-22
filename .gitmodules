@@ -1,0 +1,3 @@
+[submodule "cmake_gba"]
+	path = cmake_gba
+	url = https://github.com/JBarberU/cmake_gba.git
